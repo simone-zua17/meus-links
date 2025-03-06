@@ -118,7 +118,8 @@
             <tr>
                 <td>Projeto 1</td>
                 <td>: Personalizando Títulos e Parágrafos</td>
-                <td><a https://simone-zua17.github.io/T.1///T.1/>Acessar</a></td>
+            https://simone-zua17.github.io/T.1/
+        
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">

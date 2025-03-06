@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -118,7 +118,7 @@
             <tr>
                 <td>Projeto 1</td>
                 <td>: Personalizando Títulos e Parágrafos</td>
-                <td><a href=https://simone-zua17.github.io/T.1/>Acessar</a></td><!DOCTYPE html>
+                <td><a href=https://simone-zua17.github.io/T.1/>Acessar</a></td>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -177,7 +177,7 @@
                 <td>Projeto 2</td>
                 <td> Criando um Card Simples</td>
                 <td><a href=https://simone-zua17.github.io/T.2/>Acessar</a></td>
-                <!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -248,7 +248,7 @@
                 <td>Projeto 3</td>
                 <td>: Criando uma Lista Personalizada</td>
                 <td><a href=https://simone-zua17.github.io/T.3/>Acessar</a></td>
-                <!DOCTYPE html>
+               
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -323,7 +323,7 @@
                 <td>Projeto 4</td>
                 <td>: Estilizando um Formulário</td>
                 <td><a href=https://simone-zua17.github.io/T.4/>Acessar</a></td>
-                <!DOCTYPE html>
+               
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">

@@ -94,7 +94,7 @@
     <div class="info">
         <h2>Simone Zua</h2>
         <p>Instituto Médio Comercial de Luanda</p>
-        <p>Turma: BNI | Sala: 18 | Nº 19 | Turno: Diurno</p>
+        <p>Turma: BNI | Sala: 18 | Nº 27 | Turno: Diurno</p>
         <p>Curso: Informática de Gestão</p>
     </div>
 
